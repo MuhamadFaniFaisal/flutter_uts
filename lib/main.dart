@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
-                        Text('Muhammad Abdurrohim',
+                        Text('Muhamad Fani Faisal',
                             style:
                                 TextStyle(fontSize: 20, color: Colors.white)),
                         Padding(
@@ -57,7 +57,7 @@ class MyApp extends StatelessWidget {
                               Padding(
                                   padding: const EdgeInsets.only(left: 4.0),
                                   child: Text(
-                                    'Desa Klangenan Kab.Cirebon, Jawa Barat ',
+                                    'Desa cisaat Kab.Cirebon, Jawa Barat ',
                                     style: TextStyle(
                                         color: Colors.white70,
                                         fontSize: 16,
@@ -168,7 +168,7 @@ class MyApp extends StatelessWidget {
                     child:Row( 
                     children: <Widget>[
                       Icon(Icons.person_pin),
-                    Text( 'Nama       : Muhammad Abdurrohim', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18)
+                    Text( 'Nama       : Muhamad Fani Faisal', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18)
                         )
                       ]
                     ),
@@ -178,7 +178,7 @@ class MyApp extends StatelessWidget {
                     child:Row( 
                     children: <Widget>[
                       Icon(Icons.dialpad),
-                   Text('NIM          : 2019114009', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18)
+                   Text('NIM          : 2019114028', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18)
                           )
                         ]
                         ),
@@ -188,7 +188,7 @@ class MyApp extends StatelessWidget {
                     child:Row( 
                     children: <Widget>[
                       Icon(Icons.date_range),
-                   Text('TTL          : Cirebon, 21-08-2000', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18)
+                   Text('TTL          : Cirebon, 05-10-2000', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18)
                           )
                         ]
                       ),
@@ -208,7 +208,7 @@ class MyApp extends StatelessWidget {
                     child:Row( 
                     children: <Widget>[
                       Icon(Icons.contact_phone),
-                    Text('Telepon   : 081223394248', style: TextStyle(fontWeight: FontWeight.bold ,fontSize: 18)
+                    Text('Telepon   : 089689505107', style: TextStyle(fontWeight: FontWeight.bold ,fontSize: 18)
                           )
                         ]
                       ),
@@ -218,7 +218,7 @@ class MyApp extends StatelessWidget {
                     child:Row( 
                     children: <Widget>[
                       Icon(Icons.home),
-                    Text('Alamat    : Desa,Klangenan.Kec,Klangenan.Kab,Cirebon', style: TextStyle(fontWeight: FontWeight.bold ,fontSize: 18)
+                    Text('Alamat    : Desa Cisaat.Kec,waled.Kab,Cirebon', style: TextStyle(fontWeight: FontWeight.bold ,fontSize: 18)
                           )
                          ]
                        ),
